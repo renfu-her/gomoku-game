@@ -1,0 +1,5 @@
+{
+  "name": "Zen Gomoku (Five-in-a-Row)",
+  "description": "A classic 15x15 Gomoku game featuring Free and Forbidden rule sets, local multiplayer, and a smart local CPU opponent.",
+  "requestFramePermissions": []
+}
